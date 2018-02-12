@@ -7,7 +7,7 @@ Islam Audio WaterMarking
 (*Important*)
 add your mark into music Folder into your device.
 ================
-Bell is a free open source Android application for recording and Watermarking  soundsirectly on the handset.
+is a free open source Android application for recording and Watermarking  soundsirectly on the handset.
 
 Screenshots
 ============
