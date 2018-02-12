@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8f6f8"
+    tools:context="com.mp3cutter.Biit.Home">
+
+
+    <LinearLayout
+        android:id="@+id/cover"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:foregroundGravity="center"
+        android:gravity="center">
+
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:padding="20dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/logo" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cover"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="16dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="6dp"
+            android:tint="@color/colorPrimary"
+            android:gravity="center"
+            android:src="@drawable/zigzag"
+
+
+            />
+
+        <com.mp3cutter.Biit.Custom.MyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="33dp"
+            android:layout_marginRight="33dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:lineSpacingExtra="4dp"
+            android:text="Application will detect low frequency point in audio So you Can embed watermarks on These points or you can Select Watermark locaion by Clicking on audio Wave."
+            android:textColor="@color/subtext"
+            android:textSize="16.5sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="7dp">
+
+            <com.mp3cutter.Biit.Custom.MyTextView
+                android:id="@+id/New"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/homebuttonshape"
+                android:gravity="center"
+                android:padding="11dp"
+                android:text="Insert New Watermark"
+                android:textColor="#fff"
+                android:textSize="12sp" />
+
+            <com.mp3cutter.Biit.Custom.MyTextView
+                android:id="@+id/Old"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/homebuttonshape"
+                android:gravity="center"
+                android:padding="11dp"
+                android:text="Inserted Watermarks"
+                android:textColor="#fff"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

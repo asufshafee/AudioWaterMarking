@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MYAPP.iml" filepath="$PROJECT_DIR$/MYAPP.iml" />
+      <module fileurl="file://C:\Users\GeeksEra\Downloads\Compressed\Rey-RingtoneMaker-master\Rey-RingtoneMaker-master\RingtoneMaker.iml" filepath="C:\Users\GeeksEra\Downloads\Compressed\Rey-RingtoneMaker-master\Rey-RingtoneMaker-master\RingtoneMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

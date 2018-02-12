@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentTop="true">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <ImageView
+                android:layout_width="36dp"
+                android:layout_height="39dp"
+                android:layout_gravity="center"
+                android:background="@drawable/logo"
+
+                />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+
+                android:paddingEnd="10dp"
+                android:paddingStart="10dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:textSize="15sp"
+                android:textColor="@color/colorPrimary"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:text="Do you want to insert watermark here."
+                />
+            <TextView
+                android:id="@+id/Time"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:paddingBottom="20dp"
+                android:textColor="@android:color/black"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:text="Time: 00:11"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@color/colorPrimary"
+                android:weightSum="3">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:id="@+id/insertbtn"
+                    android:text="Select" />
+
+                <Button
+
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:id="@+id/cencel"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="Cancel" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+</LinearLayout>
+
+
+
+
+
+

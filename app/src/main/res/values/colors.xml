@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+
+    <color name="transparent_bg">#55000000</color>
+    <color name="dark_blue">#00021d</color>
+    <color name="transparent_bg_dark">#99000000</color>
+
+
+    <color name="transparent_black">#60000000</color>
+
+
+
+    <color name="colorPrimary">#007b0d</color>
+    <color name="colorPrimaryDark">#007b2d</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBackground">#ffffff</color>
+
+
+    <color name="grid_line">#26000000</color>
+
+
+    <color name="selection_border">#20b91a</color>
+
+    <color name="playback_indicator">#20b91c</color>
+
+    <color name="waveform_unselected_bkgnd_overlay">#ffffff</color>
+
+    <color name="timecode">#666666</color>
+
+    <color name="timecode_shadow">#aa000000</color>
+
+    <color name="waveform_selected">#20b91d</color>
+
+    <color name="waveform_unselected">#26000000</color>
+
+
+    <color name="type_bkgnd_alarm">#88880000</color>
+    <color name="type_bkgnd_ringtone">#88008888</color>
+    <color name="type_bkgnd_notification">#88666600</color>
+    <color name="type_bkgnd_music">#88000000</color>
+    <color name="type_bkgnd_unsupported">#88cccccc</color>
+
+
+
+
+
+    <color name="colorTex">#585858</color>
+    <color name="colordevider">#64dad8d8</color>
+    <color name="colorblue">#4c71f5</color>
+    <color name="colorSub">#b0afaf</color>
+
+    <color name="subtext">#a1a1a1</color>
+
+
+
+    <color name="listsub1">#7b7b7b</color>
+    <color name="listsub2">#9e9e9e</color>
+    <color name="listtext">#585858</color>
+    <color name="text">#26262e</color>
+    <color name="white">#ffffff</color>
+
+
+
+</resources>

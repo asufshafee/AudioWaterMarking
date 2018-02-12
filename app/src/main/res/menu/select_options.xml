@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/magnify"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always|collapseActionView"
+        />
+
+    <item
+        android:id="@+id/action_record"
+        android:icon="@drawable/microphone"
+        android:showAsAction="ifRoom"
+        android:title="@string/button_start_record_activity"
+        android:visible="false"
+
+        app:showAsAction="ifRoom|collapseActionView"/>
+
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/information_outline"
+        android:visible="false"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_about"/>
+
+</menu>
