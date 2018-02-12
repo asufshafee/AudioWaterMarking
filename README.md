@@ -11,16 +11,16 @@ Bell is a free open source Android application for recording and Watermarking  s
 
 Screenshots
 ============
-<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873164.png" width=761 height=480>
-<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873170.png" width=761 height=480>
-<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873175.png" width=761 height=480>
+<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873164.png" >
+<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873170.png" >
+<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873175.png" >
 
-<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873186.png" width=761 height=480>
-<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873194.png" width=761 height=480>
+<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873186.png" >
+<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873194.png">
 <img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873533.png" width=761 height=480>
 
 <img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516873543.png" width=761 height=480>
-<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516874213.png" width=761 height=480>
+<img src="https://github.com/asufshafee/AudioWaterMarking/blob/master/Screenshot_1516874213.png" >
 
 
 
